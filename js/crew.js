@@ -25,6 +25,14 @@ let crew = {
 			"role": "Droid",
 			"description": "A fun, smart and loyal companion who is full of surprices.",
 			"skills": "Free rolling, multiple panel tool & port configurations"
+		}, 
+		{
+			"id": 4,
+			"image": "images/crew/jam.jpg",
+			"name": "Jhonny Star wars",
+			"role": "Rey",
+			"description": "Rey de la casa ",
+			"skills": "En mi casa se hace lo que yo obedezca  "
 		}
 	]
 };
