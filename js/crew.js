@@ -25,6 +25,14 @@ let crew = {
 			"role": "Droid",
 			"description": "A fun, smart and loyal companion who is full of surprices.",
 			"skills": "Free rolling, multiple panel tool & port configurations"
+		},
+		{
+			"id": 100,
+			"image": "images/crew/Joda.jpg",
+			"name": "Joda",
+			"role": "Master Joda",
+			"description": "Un maestro que jode mucho",
+			"skills": "joder mucho"
 		}
 	]
 };
