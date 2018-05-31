@@ -28,7 +28,7 @@ let crew = {
 		},
 		{
 
-			"id": 100,
+			"id": 6,
 			"image": "images/crew/Joda.jpg",
 			"name": "Joda",
 			"role": "Master Joda",
