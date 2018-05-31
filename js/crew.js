@@ -37,6 +37,14 @@ let crew = {
 		},
 		{
 			"id": 4,
+			"image": "images/crew/EBM.jpg",
+			"name": "EBM",
+			"role": "Ovni",
+			"description": "Ayudante de Yoda",
+			"skills": "Volar y puedo comer mucho"
+		},
+		{
+			"id": 5,
 			"image": "images/crew/G2U2.jpg",
 			"name": "G2U2",
 			"role": "android",
