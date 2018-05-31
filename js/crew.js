@@ -25,6 +25,14 @@ let crew = {
 			"role": "Droid",
 			"description": "A fun, smart and loyal companion who is full of surprices.",
 			"skills": "Free rolling, multiple panel tool & port configurations"
+		},
+		{
+			"id": 4,
+			"image": "images/crew/EBM.jpg",
+			"name": "EBM",
+			"role": "Ovni",
+			"description": "Ayudante de Yoda",
+			"skills": "Volar y puedo comer mucho"
 		}
 	]
 };
