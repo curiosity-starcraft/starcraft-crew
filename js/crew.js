@@ -35,12 +35,30 @@ let crew = {
 			"skills": "En mi casa se hace lo que yo obedezca  "
 		},
 		{
+
+			"id": 6,
+			"image": "images/crew/Joda.jpg",
+			"name": "Joda",
+			"role": "Master Joda",
+			"description": "Un maestro que jode mucho",
+			"skills": "joder mucho"
+		},
+		{
 			"id": 4,
+			"image": "images/crew/EBM.jpg",
+			"name": "EBM",
+			"role": "Ovni",
+			"description": "Ayudante de Yoda",
+			"skills": "Volar y puedo comer mucho"
+		},
+		{
+			"id": 5,
 			"image": "images/crew/G2U2.jpg",
 			"name": "G2U2",
 			"role": "android",
 			"description": "Toda una maquina multi usos.",
 			"skills": "Barre , trapea y lava loza muy bien"
+
 		}
 	]
 };
