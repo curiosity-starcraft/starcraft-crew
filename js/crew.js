@@ -33,6 +33,14 @@ let crew = {
 			"role": "Ovni",
 			"description": "Ayudante de Yoda",
 			"skills": "Volar y puedo comer mucho"
+		},
+		{
+			"id": 5,
+			"image": "images/crew/G2U2.jpg",
+			"name": "G2U2",
+			"role": "android",
+			"description": "Toda una maquina multi usos.",
+			"skills": "Barre , trapea y lava loza muy bien"
 		}
 	]
 };
