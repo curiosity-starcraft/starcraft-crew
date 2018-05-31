@@ -25,6 +25,14 @@ let crew = {
 			"role": "Droid",
 			"description": "A fun, smart and loyal companion who is full of surprices.",
 			"skills": "Free rolling, multiple panel tool & port configurations"
+		}, 
+		{
+			"id": 4,
+			"image": "images/crew/darth-vader.jpg",
+			"name": "Darth Vader",
+			"role": "Commander",
+			"description": "A fun and nice Empire's commander.",
+			"skills": "Generator of change and leadership."
 		}
 	]
 };
