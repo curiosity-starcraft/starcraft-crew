@@ -25,6 +25,7 @@ let crew = {
 			"role": "Droid",
 			"description": "A fun, smart and loyal companion who is full of surprices.",
 			"skills": "Free rolling, multiple panel tool & port configurations"
+<<<<<<< HEAD
 		}, 
 		{
 			"id": 4,
@@ -33,6 +34,16 @@ let crew = {
 			"role": "Rey",
 			"description": "Rey de la casa ",
 			"skills": "En mi casa se hace lo que yo obedezca  "
+=======
+		},
+		{
+			"id": 4,
+			"image": "images/crew/G2U2.jpg",
+			"name": "G2U2",
+			"role": "android",
+			"description": "Toda una maquina multi usos.",
+			"skills": "Barre , trapea y lava loza muy bien"
+>>>>>>> 684327776573afeb8a2e6cfda637d9fe523be7ca
 		}
 	]
 };
