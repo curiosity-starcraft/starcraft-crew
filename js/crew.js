@@ -67,6 +67,14 @@ let crew = {
 			"role": "Commander",
 			"description": "A fun and nice Empire's commander.",
 			"skills": "Generator of change and leadership."
+		}, 
+		{
+			"id": 9,
+			"image": "images/crew/captainrex.jpg",
+			"name": "Captain Rex",
+			"role": "Lieutenant of Anakin",
+			"description": "Clone soldier of the Republic army, who led the 501st Legion in its beginnings",
+			"skills": "Light saber handling"
 		}
 	]
 };
