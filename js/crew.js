@@ -59,6 +59,14 @@ let crew = {
 			"description": "Toda una maquina multi usos.",
 			"skills": "Barre , trapea y lava loza muy bien"
 
+		},
+		{
+			"id": 8,
+			"image": "images/crew/darth-vader.jpg",
+			"name": "Darth Vader",
+			"role": "Commander",
+			"description": "A fun and nice Empire's commander.",
+			"skills": "Generator of change and leadership."
 		}
 	]
 };
