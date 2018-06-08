@@ -76,6 +76,15 @@ let crew = {
 			"description": "Clone soldier of the Republic army, who led the 501st Legion in its beginnings",
 			"skills": "Light saber handling"
 		}
+		, 
+		{
+			"id": 10,
+			"image": "images/crew/DarkVader.jpg",
+			"name": "Dark Vader-jcaristizabal",
+			"role": "The Bad",
+			"description": "Once a heroic Jedi Knight, Darth Vader was seduced by the dark side of the Force, became a Sith Lord, and led the Empire’s eradication of the Jedi Order.",
+			"skills": "FORCEFIELD BLAST, RAGE FOCUSING, FORCE LIGHTNING"
+		}
 	]
 };
 
