@@ -75,6 +75,14 @@ let crew = {
 			"role": "Lieutenant of Anakin",
 			"description": "Clone soldier of the Republic army, who led the 501st Legion in its beginnings",
 			"skills": "Light saber handling"
+		},
+		{
+			"id":10,
+			"image":"images/crew/Maestro_jedi.jpg",
+			"name":"Maestro Jenobi",
+			"role":"Master",
+			"description":"Master of the Jedi Order, the rising hero of the Republic",
+			"skills":"The force, lightsword fighting"
 		}
 	]
 };
