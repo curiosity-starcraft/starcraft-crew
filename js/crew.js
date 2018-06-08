@@ -1,4 +1,4 @@
-let id = 0;
+﻿let id = 0;
 
 let crew = {
 	"members": [
@@ -84,6 +84,15 @@ let crew = {
 			"role": "The Bad",
 			"description": "Once a heroic Jedi Knight, Darth Vader was seduced by the dark side of the Force, became a Sith Lord, and led the Empire’s eradication of the Jedi Order.",
 			"skills": "FORCEFIELD BLAST, RAGE FOCUSING, FORCE LIGHTNING"
+		},
+
+		{
+			"id": 11,
+			"image": "images/crew/joha.jpg",
+			"name": "Dark JOHA",
+			"role": "Captain",
+			"description": "Captain is an individual who is in charge of a starship",
+			"skills": "Dormir por 14 horas"
 		}
 	]
 };
