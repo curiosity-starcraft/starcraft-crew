@@ -86,13 +86,31 @@ let crew = {
 		}
 		,
 		{
+<<<<<<< HEAD
 			"id":13,
 			"image":"images/crew/AutoTrop.jpg",
 			"name":"AutoTrop",
 			"role":"soldier",
 			"description":"Great warrior",
 			"skills":"The force of number"
+=======
+			"id": 13,
+			"image": "images/crew/stormtrooper.jpg",
+			"name": "Stormtrooper",
+			"role": "Captain",
+			"description": "tormtroopers are the main ground force of the Galactic Empire",
+			"skills": "Powerful weapons"
+		},
+		{
+			"id": 14,
+			"image": "images/crew/Darth Maul.jpg",
+			"name": "Darth Maul",
+			"role": "Lord Sith.",
+			"description": "Warrior formidable, agile and with an ingenious brain, that fights with a threatening ferocity. As a weapon in the combats carries a double-bladed lightsaber and red.",
+			"skills": "Dark side of the Force"
+>>>>>>> 7741b23165eab34572cd55fc0b932e5577d5cb2f
 		}
+		
 	]
 };
 
