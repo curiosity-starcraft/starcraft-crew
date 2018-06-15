@@ -77,24 +77,41 @@ let crew = {
 			"skills": "Light saber handling"
 		},
 		{
-			"id":10,
+			"id": 10,
+			"image": "images/crew/DarkVader.jpg",
+			"name": "Dark Vader-jcaristizabal",
+			"role": "The Bad",
+			"description": "Once a heroic Jedi Knight, Darth Vader was seduced by the dark side of the Force, became a Sith Lord, and led the Empire’s eradication of the Jedi Order.",
+			"skills": "FORCEFIELD BLAST, RAGE FOCUSING, FORCE LIGHTNING"
+		},
+
+		{
+			"id": 11,
+			"image": "images/crew/joha.jpg",
+			"name": "Dark JOHA",
+			"role": "Captain",
+			"description": "Captain is an individual who is in charge of a starship",
+			"skills": "Dormir por 14 horas"
+		},
+
+		{
+		"id": 12,
+                    "image": "images/crew/imagen git.jpg",
+                    "name": "Captain Steven Star",
+                    "role": "captain of the spacecraft",
+                	"description": "King of the planet earth, protect from invaders",
+                	"skills": "Super strength,super powerful ray, annihilation with weapons"
+		},
+		{
+			"id":13,
 			"image":"images/crew/Maestro_jedi.jpg",
 			"name":"Maestro Jenobi",
 			"role":"Master",
 			"description":"Master of the Jedi Order, the rising hero of the Republic",
 			"skills":"The force, lightsword fighting"
-		}
-		,
-		{
-<<<<<<< HEAD
-			"id":13,
-			"image":"images/crew/AutoTrop.jpg",
-			"name":"AutoTrop",
-			"role":"soldier",
-			"description":"Great warrior",
-			"skills":"The force of number"
-=======
-			"id": 13,
+		},
+        {
+			"id": 14,
 			"image": "images/crew/stormtrooper.jpg",
 			"name": "Stormtrooper",
 			"role": "Captain",
@@ -102,15 +119,22 @@ let crew = {
 			"skills": "Powerful weapons"
 		},
 		{
-			"id": 14,
+			"id": 15,
 			"image": "images/crew/Darth Maul.jpg",
 			"name": "Darth Maul",
 			"role": "Lord Sith.",
 			"description": "Warrior formidable, agile and with an ingenious brain, that fights with a threatening ferocity. As a weapon in the combats carries a double-bladed lightsaber and red.",
 			"skills": "Dark side of the Force"
->>>>>>> 7741b23165eab34572cd55fc0b932e5577d5cb2f
+		},
+		{
+			"id":16,
+			"image":"images/crew/AutoTrop.jpg",
+			"name":"AutoTrop",
+			"role":"soldier",
+			"description":"Great warrior",
+			"skills":"The force of number"
 		}
-		
+	
 	]
 };
 
