@@ -75,7 +75,15 @@ let crew = {
 			"role": "Lieutenant of Anakin",
 			"description": "Clone soldier of the Republic army, who led the 501st Legion in its beginnings",
 			"skills": "Light saber handling"
-		}
+		},
+		{
+        	"id": 10,
+            "image": "images/crew/imagen git.jpg",
+            "name": "Captain Steven Star",
+            "role": "captain of the spacecraft",
+        	"description": "King of the planet earth, protect from invaders",
+        	"skills": "Super strength,super powerful ray, annihilation with weapons"
+        		}
 	]
 };
 
