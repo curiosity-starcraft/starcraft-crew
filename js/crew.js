@@ -1,4 +1,4 @@
-let id = 0;
+﻿let id = 0;
 
 let crew = {
 	"members": [
@@ -83,6 +83,15 @@ let crew = {
 			"role":"Master",
 			"description":"Master of the Jedi Order, the rising hero of the Republic",
 			"skills":"The force, lightsword fighting"
+		}
+		,
+		{
+			"id":13,
+			"image":"images/crew/AutoTrop.jpg",
+			"name":"AutoTrop",
+			"role":"soldier",
+			"description":"Great warrior",
+			"skills":"The force of number"
 		}
 	]
 };
