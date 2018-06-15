@@ -101,6 +101,14 @@ let crew = {
                     "role": "captain of the spacecraft",
                 	"description": "King of the planet earth, protect from invaders",
                 	"skills": "Super strength,super powerful ray, annihilation with weapons"
+		},
+		{
+			"id": 13,
+			"image": "images/crew/stormtrooper.jpg",
+			"name": "Stormtrooper",
+			"role": "Captain",
+			"description": "tormtroopers are the main ground force of the Galactic Empire",
+			"skills": "Powerful weapons"
 		}
 	]
 };
