@@ -109,7 +109,16 @@ let crew = {
 			"role": "Captain",
 			"description": "tormtroopers are the main ground force of the Galactic Empire",
 			"skills": "Powerful weapons"
+		},
+		{
+			"id": 14,
+			"image": "images/crew/Darth Maul.jpg",
+			"name": "Darth Maul",
+			"role": "Lord Sith.",
+			"description": "Warrior formidable, agile and with an ingenious brain, that fights with a threatening ferocity. As a weapon in the combats carries a double-bladed lightsaber and red.",
+			"skills": "Dark side of the Force"
 		}
+		
 	]
 };
 
