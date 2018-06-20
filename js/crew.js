@@ -83,6 +83,14 @@ let crew = {
 			"role":"Master",
 			"description":"Master of the Jedi Order, the rising hero of the Republic",
 			"skills":"The force, lightsword fighting"
+		},
+	{
+			"id": 11,
+			"image": "images/crew/CCB.jpg",
+			"name": "Han Solo",
+			"role": "cowboy",
+			"description": "el pirata espacial más querido de la galaxia",
+			"skills": "un verdadero cowboy del espacio"
 		}
 	]
 };
