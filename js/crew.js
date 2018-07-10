@@ -91,7 +91,16 @@ let crew = {
 			"role": "cowboy",
 			"description": "el pirata espacial más querido de la galaxia",
 			"skills": "un verdadero cowboy del espacio"
+		},
+{
+			"id": 13,
+			"image": "images/crew/jarjar.jpg",
+			"name": "Jar Jar binks",
+			"role": "military commander",
+			"description": "el personaje mas odiado por los seguidores de star wars",
+			"skills": "He's not a slave to conformity"
 		}
+
 	]
 };
 
