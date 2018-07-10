@@ -84,13 +84,21 @@ let crew = {
 			"description":"Master of the Jedi Order, the rising hero of the Republic",
 			"skills":"The force, lightsword fighting"
 		},
-	{
+		{
 			"id": 11,
 			"image": "images/crew/CCB.jpg",
 			"name": "Han Solo",
 			"role": "cowboy",
-			"description": "el pirata espacial más querido de la galaxia",
+			"description": "el pirata espacial mï¿½s querido de la galaxia",
 			"skills": "un verdadero cowboy del espacio"
+		},
+		{
+			"id": 13,
+			"image": "images/crew/FPU96.jpg",
+			"name": "Kylo Ren",
+			"role": "Master",
+			"description": "Guerrero de la fuerza y LÃ­der supremo de la primera orden",
+			"skills": "Asesino Jedi"
 		}
 	]
 };
